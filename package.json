@@ -1,0 +1,30 @@
+{
+  "name": "ebay-scraper-wintr",
+  "description": "Extract product data from Ebay search and product URLs",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+  "test": "echo \"No test specified\""
+},
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vanilla38/ebay-scraper-wintr.git"
+  },
+  "bugs": {
+    "url": "https://github.com/vanilla38/ebay-scraper-wintr/issues"
+  },
+  "keywords": [
+    "scrape",
+    "ebay",
+    "product",
+    "scraping",
+    "scraper"
+  ],
+  "author": "vanilla38",
+  "license": "GNU GENERAL PUBLIC LICENSE",
+  "readmeFilename": "README.md",
+  "devDependencies": {},
+  "dependencies": {
+    "axios": "^0.19.0"
+  }
+}
